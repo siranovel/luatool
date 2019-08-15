@@ -1,4 +1,4 @@
-luatool
+﻿luatool
 ========
 c言語からluaのライブラリを使用したツール集です。
 
@@ -13,6 +13,8 @@ c言語からluaのライブラリを使用したツール集です。
 VineLinux ver 6.5に付属しているライブラリに依存
 
 ## Usage ##
+詳細は、
+https://github.com/siranovel/luatool/wiki
 
 ## install ##
     git clone https://github.com/siranovel/luatool.git  
