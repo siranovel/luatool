@@ -25,4 +25,8 @@ https://github.com/siranovel/luatool/wiki
 
 ## Licence ##
 
+[MIT](LICENSE)
+
 ## Author ##
+
+[siranovel](https://github.com/siranovel)
