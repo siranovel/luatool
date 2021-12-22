@@ -4,6 +4,8 @@ c言語からluaのライブラリを使用したツール集です。
 
 ## Description ##
 ![use case](images/ucLuaTool.jpg)
+詳細は、
+https://siranovel.github.io/mydocs/luatool  
 
 ## Demo ##
 
@@ -13,8 +15,6 @@ c言語からluaのライブラリを使用したツール集です。
 VineLinux ver 6.5に付属しているライブラリに依存
 
 ## Usage ##
-詳細は、
-https://github.com/siranovel/luatool/wiki
 
 ## install ##
     git clone https://github.com/siranovel/luatool.git  
